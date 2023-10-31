@@ -107,3 +107,5 @@ You are required to submit the following for review:
 * The URL of the deployed application
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
+
+Few files with TODOs. They are in the Client folder. Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. 
