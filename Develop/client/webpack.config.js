@@ -7,9 +7,30 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 plugins: [
   new HtmlWebpackPlugin({
     template: 'src/index.html',
-    chunks: ['main'],
+    title: 'Webpack Plugin',
   }),
-]
+  new InjectManifest({
+    swSrc: 'src-sw.js',
+    swDest: 'service-worker.js',
+  }),
+  new WebpackPwaManifest({
+    name: 'Just Another Text Editor',
+    short_name: 'JATE',
+    description: 'Note taker offline and online',
+    background_color: '#ffffff',
+    theme_color: '#000000',
+    icons: [
+      {
+        src: path.resolve('src/images/logo.png'),
+        sizes: [96, 128, 192, 256, 384, 512],
+      },
+    ],
+  }),
+  new InjectManifest({
+    swSrc: 'src-sw.js',
+    swDest: 'service-worker.js',
+  }),
+],
 
 // TODO: Add CSS loaders and babel to webpack.
 
