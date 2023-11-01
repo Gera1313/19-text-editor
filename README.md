@@ -4,12 +4,6 @@
 
 The task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
-To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
-
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
-
-**Important**: Make sure your submission includes the `.npmrc` file in this starter code.  This will ensure your application will deploy properly to heroku.
-
 ## User Story
 
 ```md
@@ -66,46 +60,18 @@ The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
-## Grading Requirements
-
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria:
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the above acceptance criteria plus the following:
-
-  * Uses IndexedDB to create an object store and includes both GET and PUT methods
-
-  * The application works without an internet connection
-
-  * Automatically saves content inside the text editor when the DOM window is unfocused
-
-  * Bundled with webpack
-
-  * Create a service worker with workbox that Caches static assets
-
-  * The application should use babel in order to use async / await
-
-  * Application must have a generated `manifest.json` using the `WebpackPwaManifest` plug-in
-
-  * Can be installed as a Progressive Web Application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
+## Notes
 Few files with TODOs. They are in the Client folder. Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. 
+
+## Usage
+
+## Installation
+
+## Links
+
+## Credits
+
+## Licenses
+MIT
+
+https://web.dev/codelab-make-installable/

@@ -7,6 +7,8 @@ window.addEventListener('beforeinstallprompt', (event) => {
     event.preventDefault(); //prevent the default browswer prompt
     deferredPrompt = event; //store the event
     butInstall.style.display = 'block'; //shows install button
+    // window.deferredPrompt = event;
+    // butInstall.classList.toggle('hidden', false);
 });
 
 // TODO: Implement a click event handler on the `butInstall` element
