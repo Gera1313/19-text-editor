@@ -60,6 +60,8 @@ The following image shows the application's IndexedDB storage:
 
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
+This is my goal! 
+
 ## Notes
 
 Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results. Figure out why. Something is not working in the code. Or maybe some things are working and I just don't realize it. Will look at it again sometime after November 15 when I have more time and I'm in no pressure to complete assignments by Nov 15 and to prepare for a 3rd and final project. Stay tuned! 
