@@ -68,7 +68,7 @@ Need to fix a few issues in the following files. Client folder; Webpack.config.j
 
 ## Usage
 
-The following images show the current web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
+The following images show the CURRENT web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
 
 ![A generated README file](./Assets/Home.png) 
 
