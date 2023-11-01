@@ -70,7 +70,7 @@ Need to fix a few issues in the following files. Client folder; Webpack.config.j
 
 The following images show the CURRENT web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
 
-![A generated README file](./Assets/Home.png) 
+![Just Another Text Editor](./Assets/Home.png) 
 
 ## Installation
 
