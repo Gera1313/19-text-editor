@@ -1,4 +1,4 @@
-# 19 Progressive Web Applications (PWA): Text Editor
+# Progressive Web Applications (PWA): Text Editor
 
 ## The Task
 
@@ -44,7 +44,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+The following animation demonstrates what the application should function like:
 
 ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
 
@@ -61,17 +61,32 @@ The following image shows the application's IndexedDB storage:
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
 ## Notes
-Few files with TODOs. They are in the Client folder. Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. 
+
+Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results. Figure out why. Something is not working in the code. Or maybe some things are working and I just don't realize it. Will look at it again sometime after November 15 when I have more time and I'm in no pressure to complete assignments by Nov 15 and to prepare for a 3rd and final project. Stay tuned! 
 
 ## Usage
 
+The following images show the current web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
+
+![A generated README file](./Assets/Home.png) 
+
 ## Installation
+
+N/A
 
 ## Links
 
+[Repository](https://github.com/Gera1313/19-text-editor)
+
+[Deployed Link](Insert here when available)
+
 ## Credits
 
-## Licenses
-MIT
+Big help thanks to the module activities especially module 19. Spent an entire weekend studying module 19. Watched the Zoom recordings. Still wasn't enough, but will continue with this project at a later time when I'm not pressed with time (see Notes section above).
 
-https://web.dev/codelab-make-installable/
+[This site helped](https://web.dev/codelab-make-installable/)
+
+## Licenses
+
+MIT License
+
