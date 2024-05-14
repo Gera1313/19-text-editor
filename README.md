@@ -62,7 +62,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Notes
 
-May 13, 2024: Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
+May 13, 2024: Revisiting to fix the issues. Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
 
 ## Usage
 
@@ -81,8 +81,6 @@ N/A
 [Deployed Link](Insert here when available)
 
 ## Credits
-
-Big help thanks to the module activities especially module 19. Spent an entire weekend studying module 19. Watched the Zoom recordings. Still wasn't enough, but will continue with this project at a later time when I'm not pressed with time (see Notes section above).
 
 [This site helped](https://web.dev/codelab-make-installable/)
 
