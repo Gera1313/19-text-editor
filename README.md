@@ -62,7 +62,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Notes
 
-Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results. Figure out why. Something is not working in the code. Or maybe some things are working and I just don't realize it. Will look at it again sometime after November 15 when I have more time and I'm in no pressure to complete assignments by Nov 15 and to prepare for a 3rd and final project. Stay tuned! 
+May 13, 2024: Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
 
 ## Usage
 
