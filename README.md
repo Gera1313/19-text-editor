@@ -44,7 +44,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Mock-Up
 
-The following animation demonstrates what the application should function like:
+The following animation demonstrates the application's function:
 
 ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
 
