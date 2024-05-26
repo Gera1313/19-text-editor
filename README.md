@@ -62,7 +62,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Notes
 
-May 25, 2024: Revisiting to fix the issues. Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
+May 26, 2024: Revisiting to fix the issues. Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
 
 ## Usage
 
