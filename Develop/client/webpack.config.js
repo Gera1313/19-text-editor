@@ -30,6 +30,8 @@ module.exports = () => {
         description: 'Note taker offline and online',
         background_color: '#ffffff',
         theme_color: '#000000',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
