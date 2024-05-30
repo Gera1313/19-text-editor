@@ -17,7 +17,7 @@ module.exports = () => {
     // TODO: Add and configure workbox plugins for a service worker and manifest file.
     plugins: [
       new HtmlWebpackPlugin({
-        template: 'src/index.html',
+        template: './index.html',
         title: 'Webpack Plugin',
       }),
       new InjectManifest({
