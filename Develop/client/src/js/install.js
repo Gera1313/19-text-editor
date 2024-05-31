@@ -7,8 +7,6 @@ window.addEventListener('beforeinstallprompt', (event) => {
     event.preventDefault(); //prevent the default browswer prompt
     deferredPrompt = event; //store the event
     butInstall.style.display = 'block'; //shows install button
-    // window.deferredPrompt = event;
-    // butInstall.classList.toggle('hidden', false);
 });
 
 // TODO: Implement a click event handler on the `butInstall` element
@@ -30,7 +28,7 @@ butInstall.addEventListener('click', async () => {
 
 // TODO: Add an handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
-    console.log('The app is installed.'); // app installed message
+    console.log('The app is installed.');
 });
 
 //WORK HERE
