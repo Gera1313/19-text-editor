@@ -3,7 +3,7 @@ const { CacheFirst } = require('workbox-strategies');
 const { registerRoute } = require('workbox-routing');
 const { CacheableResponsePlugin } = require('workbox-cacheable-response');
 const { ExpirationPlugin } = require('workbox-expiration');
-const { precacheAndRoute } = require('workbox-precaching/precacheAndRoute');
+const { precacheAndRoute } = require('workbox-precaching'); // Corrected import
 
 precacheAndRoute(self.__WB_MANIFEST);
 
@@ -42,5 +42,6 @@ registerRoute(
     ],
   })
 );
+
 
 //WORK HERE
