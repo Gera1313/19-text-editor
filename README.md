@@ -64,11 +64,11 @@ The following image shows the application's IndexedDB storage:
 
 May 28, 2024: Revisiting to fix the issues. Need to fix a few issues in the following files. Client folder; Webpack.config.js, src-sw.js. In the js folder they are database.js, install.js. npm run start does not appear to produce results.
 
-June 5, 2024: Finished with the project.  
+June 5, 2024: Finished with the project. Fixed all errors. 
 
 ## Usage
 
-The following images show the CURRENT web application's appearance and functionality. Keep in mind this is a work in progress, it is NOT complete yet (see Notes above).
+The following images show the web application's appearance & functionality.
 
 ![Just Another Text Editor](./Assets/Home.png) 
 
