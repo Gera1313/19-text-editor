@@ -74,10 +74,6 @@ The following images show the web application's appearance & functionality.
 
 ![Just Another Text Editor](./Assets/Terminal.png)
 
-## Installation
-
-N/A
-
 ## Links
 
 [Repository](https://github.com/Gera1313/text-editor)
