@@ -72,6 +72,8 @@ The following images show the web application's appearance & functionality.
 
 ![Just Another Text Editor](./Assets/Home.png) 
 
+![Just Another Text Editor](./Assets/Terminal.png)
+
 ## Installation
 
 N/A
@@ -81,10 +83,6 @@ N/A
 [Repository](https://github.com/Gera1313/19-text-editor)
 
 [Deployed Link](Insert here when available)
-
-## Credits
-
-[This site helped](https://web.dev/codelab-make-installable/)
 
 ## Licenses
 
