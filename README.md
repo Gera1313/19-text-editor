@@ -80,7 +80,7 @@ N/A
 
 ## Links
 
-[Repository](https://github.com/Gera1313/19-text-editor)
+[Repository](https://github.com/Gera1313/text-editor)
 
 [Deployed Link](Insert here when available)
 
