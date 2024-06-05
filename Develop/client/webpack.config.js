@@ -61,5 +61,3 @@ module.exports = () => {
     },
   };
 };
-
-//WORK HERE
